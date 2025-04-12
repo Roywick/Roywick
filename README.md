@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roywick
+- 👋 Hi, I’m Sowrov Ray
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
